@@ -1,4 +1,4 @@
-# ExpNo 5 : Implement Minimax Search Algorithm for a Simple TIC-TAC-TOE game
+# ExpNo 6 : Implement Minimax Search Algorithm for a Simple TIC-TAC-TOE game
 ### Name: Sowmya V
 ### Register Number: 212222110045
 
